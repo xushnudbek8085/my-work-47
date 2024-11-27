@@ -1,0 +1,10 @@
+.a{
+    border: solid 2px red;
+    background-color: aqua;
+}
+.b{
+    border: 2px solid red;
+    width: 150px;
+    background-color: aqua;
+    margin: 50px 100px 150px 200px;
+}
